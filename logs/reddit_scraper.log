@@ -1,0 +1,17 @@
+INFO:root:Model saved to models/reddit_stock_sentiment_model.pkl
+INFO:root:Model saved to models/reddit_stock_sentiment_model.pkl
+INFO:root:Model saved to models/reddit_stock_sentiment_model.pkl
+INFO:root:Model saved to models/reddit_stock_sentiment_model.pkl
+INFO:root:Model saved to models/reddit_stock_sentiment_model.pkl
+INFO:root:Model saved to models/reddit_stock_sentiment_model.pkl
+INFO:root:Model saved to models/reddit_stock_sentiment_model.pkl
+INFO:root:Model saved to models/reddit_stock_sentiment_model.pkl
+INFO:root:Model saved to models/reddit_stock_sentiment_model.pkl
+INFO:root:Model saved to models/reddit_stock_sentiment_model.pkl
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['MARUTI']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+INFO:root:Model saved to models/reddit_stock_sentiment_model.pkl
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['ICICIBANK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
